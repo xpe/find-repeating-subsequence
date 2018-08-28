@@ -1,0 +1,6 @@
+[package]
+name = "find-repeating-subsequence"
+version = "0.1.0"
+authors = ["David James <no-spam@gmail.com>"]
+
+[dependencies]
